@@ -1,0 +1,2 @@
+ID de Carrera: 1629059557720	--- Primer Puesto: ANTONIO	--- Segundo Puesto: RAFAEL	--- Tercer Puesto: JESUS
+ID de Carrera: 1629059657324	--- Primer Puesto: JESUS	--- Segundo Puesto: RAFAEL	--- Tercer Puesto: ANTONIO
